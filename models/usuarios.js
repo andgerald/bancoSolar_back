@@ -1,5 +1,5 @@
 import "dotenv/config";
-import pool from "../back/database/dbConfig.js";
+import pool from "../database/dbConfig.js";
 
 //usuarios GET: Devuelve todos los usuarios registrados con sus balances.
 const findAll = async () => {

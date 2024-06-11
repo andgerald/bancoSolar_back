@@ -1,5 +1,5 @@
 import "dotenv/config";
-import pool from "../back/database/dbConfig.js";
+import pool from "../database/dbConfig.js";
 
 //transferencias GET: Devuelve todas las transferencias almacenadas en la base de datos en formato de arreglo.
 const findAll = async () => {
