@@ -1,4 +1,4 @@
-import { transferenciasController } from "../../controllers/transferencias.js";
+import { transferenciasController } from "../controllers/transferencias.js";
 import { Router } from "express";
 
 const router = Router();
