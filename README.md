@@ -25,6 +25,8 @@ A continuación, se presenta una guía paso a paso para configurar el entorno de
 En el siguiente enlace podras ver el proyecto: 
 https://andgerald.github.io/BancoSolar_Front/
 
+**Al momento de visualizar la página, es posible una latencia de 60 segundos o más, ya que se está utilizando render para la base de datos.**
+
 ## Ejecutando las Pruebas ⚙️
   **Rutas usuarios**
 - GET: Devuelve todos los usuarios.
